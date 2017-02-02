@@ -1,0 +1,4 @@
+/build
+/priv
+*.json
+*apk
